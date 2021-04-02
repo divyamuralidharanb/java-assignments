@@ -1,3 +1,2 @@
 # assignments
-TestLeaf Assignments
-Week 1 Java Assignments
+TestLeaf Java Assignments
